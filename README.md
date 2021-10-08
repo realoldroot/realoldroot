@@ -1,9 +1,11 @@
-### Hi there 👋
+<!-- ### Hello 👋 -->
 
-<!--
-**realoldroot/realoldroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![info](https://github-readme-stats.vercel.app/api?username=realoldroot)]()
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realoldroot&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/realoldroot)
+
+
+<!-- About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
